@@ -21,6 +21,7 @@
   },
   "devDependencies": {
     "@tsconfig/node20": "^20.1.2",
+    "@types/node": "^20.8.6",
     "nodemon": "^3.0.1"
   }
 }
